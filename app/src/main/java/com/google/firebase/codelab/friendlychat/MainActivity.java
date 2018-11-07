@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 package com.google.firebase.codelab.friendlychat;
+//asssignment
+
 
 import android.content.Intent;
 import android.content.SharedPreferences;
