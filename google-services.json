@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29870853208",
+    "firebase_url": "https://friendlychat-50ebf.firebaseio.com",
+    "project_id": "friendlychat-50ebf",
+    "storage_bucket": "friendlychat-50ebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29870853208:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29870853208-nin9dktlc8lk84g7708iv5ih7euo000p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "4ad716fa71f81acc0814c84c2592bc089e249cf8"
+          }
+        },
+        {
+          "client_id": "29870853208-8aiutf858u8rr0p19ch2mcvogl1tce89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2Lz63Hk5NxQH1d4L3jCu39E0oxJOiio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29870853208-8aiutf858u8rr0p19ch2mcvogl1tce89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
